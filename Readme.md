@@ -6,6 +6,11 @@ Documenting an error.
 - `Error` can be found in the `cmd/error` - `main` branch
 - `Fix` can be found in the `cmd/fix` - `fix` branch
 
+Fix
+---
+
+run `go get github.com/hyperledger/fabric-sdk-go/pkg/gateway@14047c6d88f0e995f09d55817bfbf735e245547a`
+
 Error
 -----
 

@@ -1,5 +1,5 @@
-build-error:
-	go build cmd/error/main.go
+build-fix:
+	go build cmd/fix/main.go
 
-run-error:
-	go run cmd/error/main.go
+run-fix:
+	go run cmd/fix/main.go
