@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hashicorp/vault/api"
-	"github.com/anonsachin/fabric-sdk-go/pkg/gateway"
+	"github.com/hyperledger/fabric-sdk-go/pkg/gateway"
 )
 
 func main(){
